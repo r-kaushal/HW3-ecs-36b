@@ -1,0 +1,23 @@
+{
+	"Event description" : "Little Red Riding Hood wore the cap",
+	"Location" : 
+	{
+		"Location Name" : "Somewhere"
+	},
+	"Person1" : 
+	{
+		"Name" : "Little Red Riding Hood"
+	},
+	"Thing 1" : 
+	{
+		"Location" : 
+		{
+			"Location Name" : "Somewhere"
+		},
+		"Thing Name" : "Little Cap of Red Velvet"
+	},
+	"Time" : 
+	{
+		"time" : "2000-01-01T12:00:00+0000"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"Event description" : "Little Red met the wolf at a particular spot in the wood",
+	"Location" : 
+	{
+		"Location Name" : "Entrance of Woods"
+	},
+	"Person1" : 
+	{
+		"Name" : "Little Red Riding Hood"
+	},
+	"Person2" : 
+	{
+		"Name" : "Wolf"
+	},
+	"Time" : 
+	{
+		"time" : "2000-01-01T14:00:00+0000"
+	}
+}

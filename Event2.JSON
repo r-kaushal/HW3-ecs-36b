@@ -1,0 +1,35 @@
+{
+	"Event description" : "Her mom gave her the cake and wine",
+	"Location" : 
+	{
+		"Location Name" : "Somewhere"
+	},
+	"Person1" : 
+	{
+		"Name" : "Mother"
+	},
+	"Person2" : 
+	{
+		"Name" : "Little Red Riding Hood"
+	},
+	"Thing 1" : 
+	{
+		"Location" : 
+		{
+			"Location Name" : "Somewhere"
+		},
+		"Thing Name" : "piece of cake"
+	},
+	"Thing 2" : 
+	{
+		"Location" : 
+		{
+			"Location Name" : "Somewhere"
+		},
+		"Thing Name" : "bottle of wine"
+	},
+	"Time" : 
+	{
+		"time" : "2000-01-01T13:00:00+0000"
+	}
+}

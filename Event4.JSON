@@ -1,0 +1,39 @@
+{
+	"Event description" : "Grandma was at her own home right outside of the wood and there were three large oak trees nearby",
+	"Location" : 
+	{
+		"Location Name" : "Right Outside the wood"
+	},
+	"Person1" : 
+	{
+		"Name" : "Grandma"
+	},
+	"Thing 1" : 
+	{
+		"Location" : 
+		{
+			"Location Name" : "The Woods"
+		},
+		"Thing Name" : "Large Oak Tree 1"
+	},
+	"Thing 2" : 
+	{
+		"Location" : 
+		{
+			"Location Name" : "The Woods"
+		},
+		"Thing Name" : "Large Oak Tree 2"
+	},
+	"Thing 3" : 
+	{
+		"Location" : 
+		{
+			"Location Name" : "The Woods"
+		},
+		"Thing Name" : "Large Oak Tree 3"
+	},
+	"Time" : 
+	{
+		"time" : "2000-01-01T15:00:00+0000"
+	}
+}
